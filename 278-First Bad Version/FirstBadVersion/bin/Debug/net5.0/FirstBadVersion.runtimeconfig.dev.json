@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/debabrata/.dotnet/store/|arch|/|tfm|",
+      "/Users/debabrata/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.AssemblyInfoInputs.cache
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.AssemblyInfo.cs
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.csproj.CoreCompileInputs.cache
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.deps.json
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.runtimeconfig.json
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.runtimeconfig.dev.json
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.dll
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/ref/FirstBadVersion.dll
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/bin/Debug/net5.0/FirstBadVersion.pdb
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.dll
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/ref/FirstBadVersion.dll
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.pdb
+/Users/debabrata/GitHub/LeetCode/278.FirstBadVersion/FirstBadVersion/obj/Debug/net5.0/FirstBadVersion.genruntimeconfig.cache
