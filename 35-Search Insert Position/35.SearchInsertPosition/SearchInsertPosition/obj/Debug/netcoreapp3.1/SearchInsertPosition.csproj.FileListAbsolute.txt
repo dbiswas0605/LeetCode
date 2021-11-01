@@ -1,0 +1,12 @@
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.AssemblyInfoInputs.cache
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.AssemblyInfo.cs
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.csproj.CoreCompileInputs.cache
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/bin/Debug/netcoreapp3.1/SearchInsertPosition.deps.json
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/bin/Debug/netcoreapp3.1/SearchInsertPosition.runtimeconfig.json
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/bin/Debug/netcoreapp3.1/SearchInsertPosition.runtimeconfig.dev.json
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/bin/Debug/netcoreapp3.1/SearchInsertPosition.dll
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/bin/Debug/netcoreapp3.1/SearchInsertPosition.pdb
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.dll
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.pdb
+/Users/debabrata/GitHub/LeetCode/35-Search Insert Position/35.SearchInsertPosition/SearchInsertPosition/obj/Debug/netcoreapp3.1/SearchInsertPosition.genruntimeconfig.cache
